@@ -37,7 +37,8 @@ if (this.lifeLeft == 0) {
 	ctx.heroHealth(this.playerLife - this.lifeLeft);
  { else }
  //TC: do this until it reaches 0--can't figure out what to do next.  
-}
+ }
+	
 
 //Find a way to let player know who won AND who lost by name.
 
